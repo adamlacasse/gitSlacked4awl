@@ -1,17 +1,17 @@
 $(document).ready(function() {
 
   // On load, add a new card is hidden.
-  $("#repo-input").hide();
+  // $("#repo-input").hide();
 
-  $("#newCard").on("click", function(){
-    $("#card-space").hide();
-    $("#repo-input").show();
-    $("input").val("");
-  });
+  // $("#newCard").on("click", function(){
+  //   $("#card-space").hide();
+  //   $("#repo-input").show();
+  //   $("input").val("");
+  // });
 
-  $("#clear-results").on("click", function(){
-    $("input").val("");
-  });
+  // $("#clear-results").on("click", function(){
+  //   $("input").val("");
+  // });
 
   // the modal =================================================================================
   // Get the modal
