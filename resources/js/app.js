@@ -41,6 +41,7 @@ $(document).ready(function() {
   } // end of the modal
 
   // =======================================================================================
+  //==
 
   // Initialize Parent Card Object
 let MyParentCardObj = {};
